@@ -1,2 +1,2 @@
 # tencent-next-wechat-game
-an easy game modeled with wechat
+an easy game styled with wechat
